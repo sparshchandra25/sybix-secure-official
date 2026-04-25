@@ -823,7 +823,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
                 Shielding the digital world, one user at a time. Expert-led cybersecurity for the everyday user.
               </p>
               <div className="flex space-x-6 text-slate-500 text-xs text-xs font-bold uppercase tracking-widest">
-                <a href="https://www.instagram.com/sybixsecure?igsh=czF1emx2bTRhM2tl" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-500 transition-colors">Insta</a>
+                <a href="https://www.instagram.com/sybixcybercare?igsh=MWpxYXRmMDIybjFkMw==" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-500 transition-colors">Insta</a>
                 <a href="https://chat.whatsapp.com/DJVT6alhymlFU6MAdZgjSR" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-500 transition-colors">WhatsApp</a>
                 <a href="https://www.linkedin.com/company/sybix-secure/" target="_blank" rel="noopener noreferrer" className="hover:text-cyan-500 transition-colors">LinkedIn</a>
               </div>
